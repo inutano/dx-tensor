@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 require 'json'
+require 'csv'
 
 if __FILE__ == $0
   link_json_path = ARGV[0]
@@ -22,4 +23,24 @@ if __FILE__ == $0
       target_count: edge["target_count"],
     }
   end
+
+  rows = nodes.map do |source_id, source_prop|
+    row_values = nodes.map do |target_id, target_prop|
+      if source_id != target_id
+        edge_start = edges[source_id]
+        if edge_start
+          edge = edge_start[target_id]
+          if edge
+            edge[:count]
+          end
+        end
+      end
+    end
+
+    CSV::Row.new(
+      ["labels", nodes.map{|id, prop| prop[:label] }].flatten, # Array of header labels
+      [source_prop[:label], row_values].flatten # Array of row values
+    )
+  end
+  puts CSV::Table.new(rows).to_csv(col_sep: "\t")
 end

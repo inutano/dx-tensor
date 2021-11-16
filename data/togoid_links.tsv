@@ -1,0 +1,63 @@
+labels	Affymetrix probeset	NCBI gene	ChEMBL compound	ChEBI compound	ChEMBL target	DrugBank	HMDB	MeSH	PubChem compound	PubChem substance	PubMed	Ensembl gene	Gene ontology	InterPro	PDB	Pfam	Reactome pathway	UniProt	Disease ontology	OMIM phenotype	Ensembl protein	Ensembl transcript	HGNC	RefSeq RNA	Consensus CDS	Enzyme nomenclature	GenBank/ENA/DDBJ	LRG	MGI	miRBase	OMIM gene	RGD	HomoloGene	MBGD gene	MBGD organism	Taxonomy	MedGen	Human Phenotype Ontology	MONDO	Orphanet	MedDRA	NANDO	RefSeq genomic	RefSeq protein	OMA protein	Reactome reaction	dbSNP	Rhea	SRA accession	BioProject	BioSample	SRA analysis	SRA experiment	SRA project	SRA run	SRA sample	TogoVar variant	ClinVar variant	IntAct	OMA group	UniProt mnemonic	WikiPathways
+Affymetrix probeset		19063																																																												
+NCBI gene												2984884	1749687								3288956	3036731	42519	38906963						1916	17833					32529295							48316	40020718																		
+ChEMBL compound				30798	5014353	7556	6027	40023	1877743	432924	1412640																																																			
+ChEBI compound																																																														
+ChEMBL target												1876	10625	9346	24415	2922	6066	8045																																												
+DrugBank																																																														
+HMDB																																																														
+MeSH																																																														
+PubChem compound			2066283	114995		10750																																																								
+PubChem substance																																																														
+PubMed																																																														
+Ensembl gene	52755	6179217																2286561			12180884	14437446	44278																																							
+Gene ontology																																																														
+InterPro											102319		34366		1032059	17722	380239	587532725																																												
+PDB													561577	744380		259270		263458																																												
+Pfam																																																														
+Reactome pathway													10899																																	364970																
+UniProt		13664461			8905							5107247	389305416		270075	211552943	264302			6351	5241974	5241974	76234			33359728	256440694				15558									7730				53380431			63554												231820	9693787	214971037	
+Disease ontology								3095												4231																																										
+OMIM phenotype																																																														
+Ensembl protein																						12180887																																								
+Ensembl transcript	197324												52748677										219677	9449703																																						
+HGNC		42254									33054	39321						20317						27632	33069	1939	21204	1283	18916	1970	16303	17936																														
+RefSeq RNA		36489393									4173425												143162								112073					36514168								32283426			143701631															
+Consensus CDS																																																														
+Enzyme nomenclature																																																														
+GenBank/ENA/DDBJ																																																														
+LRG																																																														
+MGI																																																														
+miRBase																																																														
+OMIM gene																																																														
+RGD																																																														
+HomoloGene		275237																																																												
+MBGD gene																		137319849																																												
+MBGD organism																																				6318																										
+Taxonomy																																																														
+MedGen		6620						112559												10555																		15817	19760	8480																						
+Human Phenotype Ontology																																																														
+MONDO								7879											9015	8434																		571		9202	1467																					
+Orphanet								1769												7416																					1198																					
+MedDRA																																																														
+NANDO																																							1772																							
+RefSeq genomic																																																														
+RefSeq protein																		46121799																																												
+OMA protein												20036						11514436				62924																																								
+Reactome reaction				132779									2838					241280																																												
+dbSNP																																																														
+Rhea				175851																						7183																				914																
+SRA accession																																																		308034	11264393	205091	14662654	366719	18434120	12889132						
+BioProject																																																														
+BioSample																																																														
+SRA analysis																																																														
+SRA experiment																																																		11827152	12125751			12169731		12169048						
+SRA project																																																		308050												
+SRA run																																																		12999407	13275530		13363494	13355585		13318803						
+SRA sample																																																			11272138											
+TogoVar variant		60001809									692119	72473309										287277970	60732887	173346179													849098										66877211											513908				
+ClinVar variant																																																														
+IntAct																																																														
+OMA group																																																														
+UniProt mnemonic																																																														
+WikiPathways				9834														31340	634																																											
